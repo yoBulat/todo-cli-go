@@ -18,21 +18,3 @@ Console ToDo list application with user input.
 ```bash
 go run .
 
-
-### `.gitignore`
-
-```gitignore
-# Binaries
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Test and coverage
-*.test
-*.out
-
-# IDE
-.vscode/
-.idea/
